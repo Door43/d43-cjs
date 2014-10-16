@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cjs:home|Door43 (cjs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cjs|d43-cjs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cjs/archive/master.zip|d43-cjs.zip]]
+
+**Recent Changes**
+{{changes>ns = cjs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cjs|Ethnologue data]]
+
